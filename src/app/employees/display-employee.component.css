@@ -1,0 +1,18 @@
+.imageClass{
+
+    height: 200px;
+    width: 200px;
+    
+    }
+    
+    .vertical-align{
+    
+        display:flex;
+        align-items: center;
+    }
+
+    button.btn{
+
+        width: 70px;
+        margin-left: 5px;
+    }
